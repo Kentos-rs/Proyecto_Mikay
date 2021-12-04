@@ -1,0 +1,17 @@
+.contenedor{
+    width:100%;
+}
+.btn{
+    border: 1px solid white;
+    background: rgba(255, 255, 255, 0.089);
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    transition: all 0.5s;
+}
+.btn:hover{
+    padding: 10px 40px;
+    background: white;
+    color:white
+}
